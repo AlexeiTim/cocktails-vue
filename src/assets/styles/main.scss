@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Raleway-1';
+  src: url('../fonts/Raleway-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'Raleway-2';
+  src: url('../fonts/Raleway-Medium.ttf');
+}
+
+@font-face {
+  font-family: 'Raleway-3';
+  src: url('../fonts//Raleway-Bold.ttf');
+}
+
+@import './variables.scss';
+@import './common.scss';
